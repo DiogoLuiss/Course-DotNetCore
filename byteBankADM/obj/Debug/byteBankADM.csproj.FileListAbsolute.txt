@@ -1,0 +1,8 @@
+C:\Users\Administ\Documents\Estudo Csharp\byteBankADM\bin\Debug\byteBankADM.exe.config
+C:\Users\Administ\Documents\Estudo Csharp\byteBankADM\bin\Debug\byteBankADM.exe
+C:\Users\Administ\Documents\Estudo Csharp\byteBankADM\bin\Debug\byteBankADM.pdb
+C:\Users\Administ\Documents\Estudo Csharp\byteBankADM\obj\Debug\byteBankADM.csproj.AssemblyReference.cache
+C:\Users\Administ\Documents\Estudo Csharp\byteBankADM\obj\Debug\byteBankADM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administ\Documents\Estudo Csharp\byteBankADM\obj\Debug\byteBankADM.csproj.CoreCompileInputs.cache
+C:\Users\Administ\Documents\Estudo Csharp\byteBankADM\obj\Debug\byteBankADM.exe
+C:\Users\Administ\Documents\Estudo Csharp\byteBankADM\obj\Debug\byteBankADM.pdb

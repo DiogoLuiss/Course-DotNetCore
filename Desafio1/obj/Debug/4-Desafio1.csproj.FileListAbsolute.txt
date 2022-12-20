@@ -1,0 +1,8 @@
+C:\Users\Administ\Documents\Desafio1\bin\Debug\Desafio1.exe.config
+C:\Users\Administ\Documents\Desafio1\bin\Debug\Desafio1.exe
+C:\Users\Administ\Documents\Desafio1\bin\Debug\Desafio1.pdb
+C:\Users\Administ\Documents\Desafio1\obj\Debug\4-Desafio1.csproj.AssemblyReference.cache
+C:\Users\Administ\Documents\Desafio1\obj\Debug\4-Desafio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administ\Documents\Desafio1\obj\Debug\4-Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\Administ\Documents\Desafio1\obj\Debug\Desafio1.exe
+C:\Users\Administ\Documents\Desafio1\obj\Debug\Desafio1.pdb

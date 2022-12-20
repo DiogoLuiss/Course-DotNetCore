@@ -1,0 +1,8 @@
+C:\Users\Administ\Documents\Estudo Csharp\byteBank\bin\Debug\byteBank.exe.config
+C:\Users\Administ\Documents\Estudo Csharp\byteBank\bin\Debug\byteBank.exe
+C:\Users\Administ\Documents\Estudo Csharp\byteBank\bin\Debug\byteBank.pdb
+C:\Users\Administ\Documents\Estudo Csharp\byteBank\obj\Debug\byteBank.csproj.AssemblyReference.cache
+C:\Users\Administ\Documents\Estudo Csharp\byteBank\obj\Debug\byteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administ\Documents\Estudo Csharp\byteBank\obj\Debug\byteBank.csproj.CoreCompileInputs.cache
+C:\Users\Administ\Documents\Estudo Csharp\byteBank\obj\Debug\byteBank.exe
+C:\Users\Administ\Documents\Estudo Csharp\byteBank\obj\Debug\byteBank.pdb

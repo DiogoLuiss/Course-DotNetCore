@@ -1,0 +1,8 @@
+C:\Users\Administ\Documents\2-Variavies\bin\Debug\2-Variavies.exe.config
+C:\Users\Administ\Documents\2-Variavies\bin\Debug\2-Variavies.exe
+C:\Users\Administ\Documents\2-Variavies\bin\Debug\2-Variavies.pdb
+C:\Users\Administ\Documents\2-Variavies\obj\Debug\2-Variavies.csproj.AssemblyReference.cache
+C:\Users\Administ\Documents\2-Variavies\obj\Debug\2-Variavies.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administ\Documents\2-Variavies\obj\Debug\2-Variavies.csproj.CoreCompileInputs.cache
+C:\Users\Administ\Documents\2-Variavies\obj\Debug\2-Variavies.exe
+C:\Users\Administ\Documents\2-Variavies\obj\Debug\2-Variavies.pdb

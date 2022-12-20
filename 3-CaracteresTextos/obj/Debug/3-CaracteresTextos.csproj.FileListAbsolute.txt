@@ -1,0 +1,8 @@
+C:\Users\Administ\Documents\3-CaracteresTextos\bin\Debug\3-CaracteresTextos.exe.config
+C:\Users\Administ\Documents\3-CaracteresTextos\bin\Debug\3-CaracteresTextos.exe
+C:\Users\Administ\Documents\3-CaracteresTextos\bin\Debug\3-CaracteresTextos.pdb
+C:\Users\Administ\Documents\3-CaracteresTextos\obj\Debug\3-CaracteresTextos.csproj.AssemblyReference.cache
+C:\Users\Administ\Documents\3-CaracteresTextos\obj\Debug\3-CaracteresTextos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administ\Documents\3-CaracteresTextos\obj\Debug\3-CaracteresTextos.csproj.CoreCompileInputs.cache
+C:\Users\Administ\Documents\3-CaracteresTextos\obj\Debug\3-CaracteresTextos.exe
+C:\Users\Administ\Documents\3-CaracteresTextos\obj\Debug\3-CaracteresTextos.pdb
