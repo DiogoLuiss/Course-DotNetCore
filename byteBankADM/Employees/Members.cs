@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace byteBankADM.Employees
 {
-    public class Members
+    public  abstract class Members : IBonus
     {
 
         public string name { get; set; }
@@ -18,23 +18,22 @@ namespace byteBankADM.Employees
         public static double AllMembers { get; private set; }
 
 
-        public virtual double Salarybonus() //todo metodo que pode ser reescrito dever ter esse parametro. o VirtuaL
-        {
 
-            return this.salary * 0.1;
+
+        public abstract void SalaryIncrease(); // colocando como abstract não preciso mexer no metodo. 
+
+        public virtual double Salarybonus()
+        {
+          return  this.salary * 0.1;
         }
 
-        public virtual void SalaryIncrease()
-
-        { this.salary *= 1.10;  }
-
-      public Members(string cpf, double salary)
+        public Members(string cpf, double salary)
         {
             this.cpf = cpf;
             this.salary = salary;
             AllMembers++;
         }
-
+ 
 
 
     }

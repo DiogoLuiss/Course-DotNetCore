@@ -1,33 +1,25 @@
-﻿using byteBankADM.InternalSystem;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace byteBankADM.Employees
 {
-    public class Director : MemberAuthenticate
+    internal class Auxiliary: Members
     {
+
+
         public override double Salarybonus()
         {
 
-            return this.salary * 0.10;
+            return this.salary * 0.20;
         }
         public override void SalaryIncrease()
 
-        { this.salary *= 1.15; }
-
-
-        public Director(string cpf):base(cpf, 5000)
-        {
-        
-        }
-
-  
+        { this.salary *= 1.10; }
+      public  Auxiliary(String cpf): base(cpf, 2000){}
 
     }
-
-
-    
 }

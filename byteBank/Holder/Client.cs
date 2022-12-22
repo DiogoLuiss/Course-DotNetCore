@@ -11,5 +11,15 @@ namespace byteBank.Holder
         public string name;
         public string cpf;
         public string profession;
+
+        public void GetClientInfo()
+        {
+            Console.WriteLine("Nome da pessoa: " + this.name);
+            Console.WriteLine("cpf da pessoa: " + this.cpf);
+            Console.WriteLine("Profissão da pessoa: " + this.profession);
+
+
+        }
+
     }
 }

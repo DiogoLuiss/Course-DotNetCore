@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exceptions\AccountOperationException.cs" />
+    <Compile Include="Exceptions\InsufficientBalanceException.cs" />
+    <Compile Include="FileHandling\FileReader.cs" />
     <Compile Include="Holder\Client.cs" />
     <Compile Include="Bills\CurrentAccount.cs" />
     <Compile Include="Program.cs" />

@@ -43,8 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Association\CommercialPartner.cs" />
+    <Compile Include="Books\Book.cs" />
+    <Compile Include="Employees\AccountManager.cs" />
+    <Compile Include="Employees\Auxiliary.cs" />
+    <Compile Include="Employees\Design.cs" />
     <Compile Include="Employees\Director.cs" />
+    <Compile Include="Employees\IBonus.cs" />
     <Compile Include="Employees\Members.cs" />
+    <Compile Include="InternalSystem\IAuthenticate.cs" />
+    <Compile Include="InternalSystem\InternalSystem.cs" />
+    <Compile Include="InternalSystem\MemberAuthenticate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utils\BonusManager.cs" />
@@ -52,5 +61,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
